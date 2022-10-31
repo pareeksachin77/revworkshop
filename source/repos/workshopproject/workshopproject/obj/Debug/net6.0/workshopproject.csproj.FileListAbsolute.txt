@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\workshopproject\workshopproject\bin\Debug\net6.0\workshopproject.exe
+C:\Users\user\source\repos\workshopproject\workshopproject\bin\Debug\net6.0\workshopproject.deps.json
+C:\Users\user\source\repos\workshopproject\workshopproject\bin\Debug\net6.0\workshopproject.runtimeconfig.json
+C:\Users\user\source\repos\workshopproject\workshopproject\bin\Debug\net6.0\workshopproject.dll
+C:\Users\user\source\repos\workshopproject\workshopproject\bin\Debug\net6.0\workshopproject.pdb
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.AssemblyInfo.cs
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.dll
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\refint\workshopproject.dll
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.pdb
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\workshopproject.genruntimeconfig.cache
+C:\Users\user\source\repos\workshopproject\workshopproject\obj\Debug\net6.0\ref\workshopproject.dll
